@@ -20,7 +20,7 @@
   "dependencies": {
     "babel-runtime": "^5.5.6",
     "chance": "~0.7.5",
-    "hoek": "~2.14.0",
+    "hoek": "^6.1.2",
     "randexp": "^0.4.2",
     "routes": "~2.0.0",
     "swagger-parser": "^3.4.1"
